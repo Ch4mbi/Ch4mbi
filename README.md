@@ -21,7 +21,7 @@ También, en la universidad , o personalmente, hago proyectos que subo al reposi
 - [Configuracion de entorno en localhost conectado a MongoDB sin seguridad y llevar ataques programados hacia ese mismo objetivo + teoría](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Mobile%20device%20%26%20data%20risks)
 - [CTF Análisis de memoria usando autopsy](https://github.com/Ch4mbi/CTFs/tree/main/Disk-analysis-%26-Autopsy%20-THM)
 - [CTF sencillo de investigación de windows con un malware](https://github.com/Ch4mbi/CTFs/tree/main/Investigating%20Windows)
-- Análisis forense de discos duros + teoria de forense digital(En preparación)
+- [Analisis forense de caso "realista" de narcos usando FTK Imager y Autopsy con teoría sobre procedimientos, reglamentos, cadena de custodia y autocrítica](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Trabajo%20analisis%20forense%20digital--Narcos)
 - Uso de cisco packet tracer para crear escenario ficticio de conexión Madrid-Barcelona implementando diversas medidas de seguridad de la red(En preparación)
 - Uso de kaggle para obtener un dataset y crear un modelo de predicción en base a ese dataset para predecir el porcentaje predictivo de que un usuario haya sufrido, o no, una brecha de datos, acorde a la lógica del dataset.(En preparación)
 
