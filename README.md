@@ -48,9 +48,9 @@ También, en la universidad , o personalmente, hago proyectos que subo al reposi
 
 # Perfil TryHackMe
 
-<img width="1183" height="264" alt="image" src="https://github.com/user-attachments/assets/d440998e-61dd-47a9-aa01-d403e39a5ecf" />
+<img width="1470" height="350" alt="image" src="https://github.com/user-attachments/assets/17f2c24d-c3bb-4e0a-b556-ba188e907df5" />
 
-- Rank: 93599(Top 5%)
-- 11 Badges
-- 229-day streak
-- 87 Completed rooms
+- Rank: 84318(Top 4%)
+- 12 Badges
+- 273-day streak
+- 97 Completed rooms
