@@ -24,6 +24,7 @@ También, en la universidad , o personalmente, hago proyectos que subo al reposi
 - [Analisis forense de caso "realista" de narcos usando FTK Imager y Autopsy con teoría sobre procedimientos, reglamentos, cadena de custodia y autocrítica](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Trabajo%20analisis%20forense%20digital--Narcos)
 - Uso de cisco packet tracer para crear escenario ficticio de conexión Madrid-Barcelona implementando diversas medidas de seguridad de la red(En preparación)
 - Uso de kaggle para obtener un dataset y crear un modelo de predicción en base a ese dataset para predecir el porcentaje predictivo de que un usuario haya sufrido, o no, una brecha de datos, acorde a la lógica del dataset.(En preparación)
+- Creación de un banco ficticio como paso inicial superficial e implantar un SGSI basado en: ISO27001, DORA y RGPD con "caarcteristicas" de los mismos aplicadas.(En preparación)
 
 # Skills/Herramientas
 - Forense digital & DFIR
