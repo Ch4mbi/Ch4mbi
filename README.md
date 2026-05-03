@@ -28,12 +28,16 @@ También, en la universidad , o personalmente, hago proyectos que subo al reposi
 
 # Skills/Herramientas
 - Forense digital & DFIR
+
 `Volatility` `Autopsy` `FTK Imager` `Wireshark`
 - Blue Team/Defensa
+
 `SIEM(Conceptos SPL + Algo de práctica en tryhackme)` `Firewall rules`
 - Ofensivo
+
 `Nmap` `Metasploit` `Gobuster(Conceptos/poco uso)` 
 - Otros
+
 `Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `BurpSuite` `OSINT`
 
 # Perfil TryHackMe
