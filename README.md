@@ -15,7 +15,7 @@ Cuento con el nivel C1 en inglés.
 
 # Proyectos
 
-También, en la universidad , o personalmente, hago proyectos que subo al repositorio de [proyectos](https://github.com/Ch4mbi/Proyectos-personales). En dicho repositorio he subido, o voy a subir(Ya que debo pasarlos al formato correcto) proyectos propios o de la universidad que me parezcan relevantes:
+También en la universidad , o personalmente, hago proyectos que subo al repositorio de [proyectos](https://github.com/Ch4mbi/Proyectos-personales). En dicho repositorio he subido, o voy a subir(Ya que debo pasarlos al formato correcto) proyectos propios o de la universidad que me parezcan relevantes:
 - [Análsis de memoria RAM usando Volatility](https://github.com/Ch4mbi/Proyectos-personales/tree/main/A-ciegas--Volatility)
 - [Análisis de la seguridad en el entorno financiero(teórico)](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Cybersecurity-in-finance-%26-banking)
 - [Configuracion de entorno en localhost conectado a MongoDB sin seguridad y llevar ataques programados hacia ese mismo objetivo + teoría](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Mobile%20device%20%26%20data%20risks)
@@ -35,10 +35,10 @@ También, en la universidad , o personalmente, hago proyectos que subo al reposi
 `SIEM(Conceptos SPL + Algo de práctica en tryhackme)` `Firewall rules`
 - Ofensivo
 
-`Nmap` `Metasploit` `Gobuster(Conceptos/poco uso)` 
+`Nmap` `Metasploit` `Gobuster(Conceptos/poco uso)` `BurpSuite`
 - Otros
 
-`Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `BurpSuite` `OSINT`
+`Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `OSINT`
 
 # Perfil TryHackMe
 
