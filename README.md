@@ -32,17 +32,17 @@ También en la universidad , o personalmente, hago proyectos que subo al reposit
 `Volatility` `Autopsy` `FTK Imager` `Wireshark`
 - Blue Team/Defensa
 
-`SIEM(Conceptos SPL + Algo de práctica en tryhackme)` `Firewall rules`
+`SIEM (Splunk + SPL)` `Firewall rules`
 - Ofensivo
 
-`Nmap` `Metasploit` `Gobuster(Conceptos/poco uso)` `BurpSuite`
+`Nmap` `Metasploit` `BurpSuite`
 - Otros
 
 `Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `OSINT`
 
 # Perfil TryHackMe
 
-<img width="1470" height="350" alt="image" src="https://github.com/user-attachments/assets/17f2c24d-c3bb-4e0a-b556-ba188e907df5" />
+[TryHackMe](https://tryhackme.com/p/Sambim)
 
 - Rank: 84318(Top 4%)
 - 12 Badges
