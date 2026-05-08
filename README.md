@@ -43,7 +43,7 @@ También en la universidad , o personalmente, hago proyectos que subo al reposit
 
 # Perfil TryHackMe
 
-[TryHackMe](https://tryhackme.com/p/Sambim)
+[TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
 - Rank: 80623(Top 4%)
 - 12 Badges
