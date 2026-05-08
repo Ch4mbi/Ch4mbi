@@ -36,7 +36,7 @@ También en la universidad , o personalmente, hago proyectos que subo al reposit
 `SIEM (Splunk + SPL)` `Firewall rules`
 - Ofensivo
 
-`Nmap` `Metasploit` `BurpSuite`
+`Nmap` `Metasploit` `BurpSuite` `sqlmap`
 - Otros
 
 `Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `OSINT`
