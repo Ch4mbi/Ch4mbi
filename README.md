@@ -34,7 +34,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 `Volatility` `Autopsy` `FTK Imager` `Wireshark`
 - Blue Team/Defensa
 
-`SIEM (Splunk + SPL)` `Firewall rules`
+`SIEM (Splunk + SPL)` `Firewall rules` `Análisis de logs`
 - Ofensivo
 
 `Nmap` `Metasploit` `BurpSuite` `sqlmap`
