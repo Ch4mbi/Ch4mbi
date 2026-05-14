@@ -16,7 +16,7 @@ Cuento con el nivel C1 en inglés.
 
 # Proyectos
 
-También en la universidad , o personalmente, hago proyectos que subo al repositorio de [proyectos](https://github.com/Ch4mbi/Proyectos-personales), que se puede ver un resumen de los repositorios, o directamente verlos. En dicho repositorio he subido, o voy a subir(Ya que debo pasarlos al formato correcto) proyectos propios o de la universidad que me parezcan relevantes:
+También en la universidad , o personalmente, hago proyectos que subo en diferentes repositorios. En dichos repositorios he subido, o voy a subir(Ya que debo pasarlos al formato correcto) proyectos propios o de la universidad que haya realizado yo que me parezcan relevantes:
 - [Análsis de memoria RAM usando Volatility](https://github.com/Ch4mbi/A-ciegas--Volatility)
 - [Análisis de la seguridad en el entorno financiero(teórico)](https://github.com/Ch4mbi/Cybersecurity-in-finance-banking)
 - [Configuracion de entorno en localhost conectado a MongoDB sin seguridad y llevar ataques programados hacia ese mismo objetivo + teoría](https://github.com/Ch4mbi/Mobile-device-data-risks)
