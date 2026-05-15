@@ -27,6 +27,17 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 - Uso de cisco packet tracer para crear escenario ficticio de conexión Madrid-Barcelona implementando diversas medidas de seguridad de la red(En preparación[Paso a .md pendiente, proyecto terminado el 29-5.2025])
 - Uso de kaggle para obtener un dataset y crear un modelo de predicción en base a ese dataset para predecir el porcentaje predictivo de que un usuario haya sufrido, o no, una brecha de datos, acorde a la lógica del dataset.(En preparación[Paso a .md])
 
+| Proyecto | Descripción |
+|----------|-------------|
+| [Análisis de memoria RAM usando Volatility](https://github.com/Ch4mbi/A-ciegas--Volatility) | Investigación forense de una imagen de memoria RAM usando Volatility en el contexto de un acceso no autorizado |
+| [Análisis de la seguridad en el entorno financiero](https://github.com/Ch4mbi/Cybersecurity-in-finance-banking) | Estudio teórico sobre el estado de la ciberseguridad en el sector financiero y bancario. Cuenta también con estudio de casos como Carbanak, Zeus y Tinba |
+| [Riesgos en dispositivos móviles + ataques a MongoDB](https://github.com/Ch4mbi/Mobile-device-data-risks) | Configuración de un entorno en localhost conectado a MongoDB sin medidas de seguridad, ejecución de ataques programados contra ese objetivo y base teórica asociada. |
+| [CTF -- Análisis de disco con Autopsy](https://github.com/Ch4mbi/CTFs/tree/main/Disk-analysis-%26-Autopsy%20-THM) | Resolución de un CTF de TryHackMe centrado en análisis forense de disco usando Autopsy. |
+| [CTF -- Investigación de Windows con malware](https://github.com/Ch4mbi/CTFs/tree/main/Investigating%20Windows) | CTF sencillo de investigación de un sistema Windows comprometido por malware. |
+| [Análisis forense digital - Caso Narcos](https://github.com/Ch4mbi/Trabajo-analisis-forense-digital--Narcos) | Análisis forense de un caso realista usando FTK Imager y Autopsy, con teoría sobre procedimientos legales, cadena de custodia y autocrítica. |
+| Implementación de SGSI -- Banco ficticio (En preparación) | Creación de un banco ficticio como base para implantar un SGSI basado en ISO 27001, DORA y RGPD. |
+| Redes seguras Madrid–Barcelona con Cisco Packet Tracer (En preparación/proceso de cambio Cisco a GNS3) | Escenario ficticio de conectividad entre ciudades implementando diversas medidas de seguridad de red. Proyecto terminado el 29/05/2025, pendiente de pasar a `.md`. |
+| Modelo de predicción de brechas de datos con Kaggle (En preparación) | Uso de un dataset de Kaggle para entrenar un modelo que predice la probabilidad de que un usuario haya sufrido una brecha de datos. Pendiente de pasar a `.md`. |
 
 # Skills/Herramientas
 - Forense digital & DFIR
