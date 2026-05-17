@@ -1,6 +1,7 @@
 # Introducción
 
 Hola, soy estudiante de ciberseguridad (Cybersecurity & Hacking) en Madrid. Actualmente voy por el tercer año de estudios con un enfoque principal (personal) en el campo de DFIR. 
+
 Mi contacto de [Linkedin](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir/)
 
 # Sobre mí
@@ -48,7 +49,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 77319(Top 4%)
+- Rank: 77296(Top 4%)
 - 13 Badges
-- 288-day streak
+- 289-day streak
 - 104 Completed rooms
