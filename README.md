@@ -2,7 +2,7 @@
 
 Hola, soy estudiante de ciberseguridad (Cybersecurity & Hacking) en Madrid. Actualmente voy por el tercer año de estudios con un enfoque principal (personal) en el campo de DFIR y en GRC. 
 
-Mi contacto de [Linkedin](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir/)
+Mi contacto de [Linkedin](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir-grc/)
 
 # Sobre mí
 
