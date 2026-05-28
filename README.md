@@ -49,7 +49,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 76147(Top 4%)
-- 13 Badges
-- 291-day streak
-- 105 Completed rooms
+- Rank: 73720(Top 4%)
+- 14 Badges
+- 300-day streak
+- 107 Completed rooms
