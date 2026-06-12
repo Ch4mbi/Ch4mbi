@@ -27,20 +27,23 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 | [CTF -- Análisis de disco con Autopsy](https://github.com/Ch4mbi/CTFs/tree/main/Disk-analysis-%26-Autopsy%20-THM) | Resolución de un CTF de TryHackMe centrado en análisis forense de disco usando Autopsy. |
 | [CTF -- Investigación de Windows con malware](https://github.com/Ch4mbi/CTFs/tree/main/Investigating%20Windows) | CTF sencillo de investigación de un sistema Windows comprometido por malware. |
 | [Análisis forense digital - Caso Narcos](https://github.com/Ch4mbi/Trabajo-analisis-forense-digital--Narcos) | Análisis forense de un caso realista usando FTK Imager y Autopsy, con teoría sobre procedimientos legales, cadena de custodia y autocrítica. |
-| Implementación de SGSI -- Banco ficticio (En preparación) | Creación de un banco ficticio como base para implantar un SGSI basado en ISO 27001, DORA y RGPD. |
+| [Implementación de SGSI -- Banco ficticio](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD) | Creación de un banco ficticio como base para implantar un SGSI basado en ISO 27001 (Con la ISO 27002), DORA y RGPD. |
 | Redes seguras Madrid–Barcelona con Cisco Packet Tracer (En preparación/proceso de cambio Cisco a GNS3) | Escenario ficticio de conectividad entre ciudades implementando diversas medidas de seguridad de red. Proyecto terminado el 29/05/2025, pendiente de pasar a `.md`. |
 | Modelo de predicción de brechas de datos con Kaggle (En preparación) | Uso de un dataset de Kaggle para entrenar un modelo que predice la probabilidad de que un usuario haya sufrido una brecha de datos. Pendiente de pasar a `.md`. |
 
 # Skills/Herramientas
 - Forense digital & DFIR
 
-`Volatility` `Autopsy` `FTK Imager` `Wireshark`
+`Volatility` `Autopsy` `FTK Imager` `Wireshark` `Digital Forensics` `Incident Response` `Memory Forensics` `IoC Analysis` `Log Analysis` `MITRE ATT&CK`
 - Blue Team/Defensa
 
 `SIEM (Splunk + SPL)` `Firewall rules` `Análisis de logs` `GRC` `Análisis de riesgos`
+- GRC
+
+`ISO 27001` `ISO 27002` `DORA` `RGPD` `SGSI` `Análisis de riesgos` `SoA` `Gestión de Activos` `Cumplimiento Normativo`
 - Ofensivo
 
-`Nmap` `Metasploit` `BurpSuite` `sqlmap`
+`Nmap` `Metasploit` `BurpSuite` `sqlmap` `Gobuster`
 - Otros
 
 `Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `OSINT`
@@ -49,7 +52,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 73720(Top 4%)
-- 14 Badges
-- 300-day streak
-- 107 Completed rooms
+- Rank: 63500(Top 3%)
+- 17 Badges
+- 315-day streak
+- 120 Completed rooms
