@@ -2,7 +2,7 @@
 
 Hola, soy estudiante de ciberseguridad (Cybersecurity & Hacking) en Madrid. Actualmente voy por el tercer año de estudios con un enfoque principal (personal) en el campo de DFIR y en GRC. 
 
-Mi contacto de [Linkedin](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir-grc/)
+Mi contacto de [Linkedin](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir-grc/).
 
 # Sobre mí
 
@@ -28,7 +28,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 | [CTF -- Investigación de Windows con malware](https://github.com/Ch4mbi/CTFs/tree/main/Investigating%20Windows) | CTF sencillo de investigación de un sistema Windows comprometido por malware. |
 | [Análisis forense digital - Caso Narcos](https://github.com/Ch4mbi/Trabajo-analisis-forense-digital--Narcos) | Análisis forense de un caso realista usando FTK Imager y Autopsy, con teoría sobre procedimientos legales, cadena de custodia y autocrítica. |
 | [Implementación de SGSI -- Banco ficticio](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD) | Creación de un banco ficticio como base para implantar un SGSI basado en ISO 27001 (Con la ISO 27002), DORA y RGPD. |
-| Redes seguras Madrid–Barcelona con Cisco Packet Tracer (En preparación/proceso de cambio Cisco a GNS3) | Escenario ficticio de conectividad entre ciudades implementando diversas medidas de seguridad de red. Proyecto terminado el 29/05/2025, pendiente de pasar a `.md`. |
+| Redes seguras Madrid–Barcelona con Cisco Packet Tracer (En preparación/proceso de adaptación de Cisco a GNS3) | Escenario ficticio de conectividad entre ciudades implementando diversas medidas de seguridad de red. Proyecto terminado el 29/05/2025, pendiente de pasar a `.md`. |
 | Modelo de predicción de brechas de datos con Kaggle (En preparación) | Uso de un dataset de Kaggle para entrenar un modelo que predice la probabilidad de que un usuario haya sufrido una brecha de datos. Pendiente de pasar a `.md`. |
 
 # Skills/Herramientas
@@ -52,7 +52,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 63500(Top 3%)
-- 17 Badges
-- 315-day streak
-- 120 Completed rooms
+- Rank: 58578(Top 3%)
+- 20 Badges
+- 318-day streak
+- 126 Completed rooms
