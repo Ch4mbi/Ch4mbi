@@ -11,7 +11,6 @@ De dichas plataformas ,o personalmente, tomo apuntes que se pueden visualizar en
 - [Tryhackme](https://github.com/Ch4mbi/Apuntes/tree/main/THM)
 - [Personales](https://github.com/Ch4mbi/Apuntes/tree/main/Personales)
 
-También, hay un repositorio en el cual subo reportes/writeups de diferentes [CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file).
 
 Cuento con el nivel C1 en inglés.
 
@@ -30,6 +29,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 | [Implementación de SGSI -- Banco ficticio](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD) | Creación de un banco ficticio como base para implantar un SGSI basado en ISO 27001 (Con la ISO 27002), DORA y RGPD. |
 | Redes seguras Madrid–Barcelona con Cisco Packet Tracer (En preparación/proceso de adaptación de Cisco a GNS3) | Escenario ficticio de conectividad entre ciudades implementando diversas medidas de seguridad de red. Proyecto terminado el 29/05/2025, pendiente de pasar a `.md`. |
 | Modelo de predicción de brechas de datos con Kaggle (En preparación) | Uso de un dataset de Kaggle para entrenar un modelo que predice la probabilidad de que un usuario haya sufrido una brecha de datos. Pendiente de pasar a `.md`. |
+| [Carpeta de writeups de CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file) | A pesar de mencionar ya los CTFs, cabe destacar la carpeta donde hay más de ellos, la cual iré aumentando con el paso del tiempo |
 
 # Skills/Herramientas
 - Forense digital & DFIR
