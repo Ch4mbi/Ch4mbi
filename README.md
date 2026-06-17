@@ -11,7 +11,7 @@ De dichas plataformas ,o personalmente, tomo apuntes que se pueden visualizar en
 - [Tryhackme](https://github.com/Ch4mbi/Apuntes/tree/main/THM)
 - [Personales](https://github.com/Ch4mbi/Apuntes/tree/main/Personales)
 
-También, hay un repositorio en el cual subo reportes de como soluciono diferentes [CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file).
+También, hay un repositorio en el cual subo reportes/writeups de diferentes [CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file).
 
 Cuento con el nivel C1 en inglés.
 
@@ -52,7 +52,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 58578(Top 3%)
+- Rank: 56522(Top 3%)
 - 20 Badges
-- 318-day streak
-- 126 Completed rooms
+- 320-day streak
+- 128 Completed rooms, de las cuales, 39 son labs, siendo el resto teóricas o con prácticas que no considero labs como tal.
