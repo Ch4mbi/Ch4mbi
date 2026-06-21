@@ -52,7 +52,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 56522(Top 3%)
-- 20 Badges
-- 320-day streak
-- 128 Completed rooms, de las cuales, 39 son labs, siendo el resto teóricas o con prácticas que no considero labs como tal.
+- Rank: 49278(Top 3%)
+- 22 Badges
+- 324-day streak
+- 135 Completed rooms, de las cuales, 42 son labs, siendo el resto teóricas o con prácticas que no considero labs como tal.
