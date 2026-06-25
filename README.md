@@ -1,6 +1,6 @@
 # Introducción
 
-Hola, soy estudiante de ciberseguridad (Cybersecurity & Hacking) en Madrid. Actualmente voy por el tercer año de estudios con un enfoque principal (personal) en el campo de DFIR y en GRC. 
+Hola, soy un recien graduado en ciberseguridad (Cybersecurity & Hacking) en Madrid. Actualmente tengo un enfoque principal (personal) en el campo de DFIR y en GRC. El cual me apasiona y me motiva a conseguir mis metas.
 
 Mi contacto de [Linkedin](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir-grc/).
 
