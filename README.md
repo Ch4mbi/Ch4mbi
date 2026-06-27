@@ -24,9 +24,6 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 | [Análisis de la seguridad en el entorno financiero](https://github.com/Ch4mbi/Cybersecurity-in-finance-banking) | Estudio teórico sobre el estado de la ciberseguridad en el sector financiero y bancario. Cuenta también con estudio de casos como Carbanak, Zeus y Tinba |
 | [Riesgos en dispositivos móviles + ataques a MongoDB](https://github.com/Ch4mbi/Mobile-device-data-risks) | Configuración de un entorno en localhost conectado a MongoDB sin medidas de seguridad, ejecución de ataques programados contra ese objetivo y base teórica asociada. |
 | [Implementación de SGSI -- Banco ficticio](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD) | Creación de un banco ficticio como base para implantar un SGSI basado en ISO 27001 (Con la ISO 27002), DORA y RGPD. |
-| Simulación contrladad de desarrollo de payload android (En preparación) | Con fines de aprendizaje, se creó un payload y se conectó a un dispositivo movil en un entorno controlado |
-| Redes seguras Madrid–Barcelona con Cisco Packet Tracer (En preparación/proceso de adaptación de Cisco a GNS3) | Escenario ficticio de conectividad entre ciudades implementando diversas medidas de seguridad de red. Proyecto terminado el 29/05/2025, pendiente de pasar a `.md`. |
-| Modelo de predicción de brechas de datos con Kaggle (En preparación) | Uso de un dataset de Kaggle para entrenar un modelo que predice la probabilidad de que un usuario haya sufrido una brecha de datos. Pendiente de pasar a `.md`. |
 | [CTF -- Análisis de disco con Autopsy](https://github.com/Ch4mbi/CTFs/tree/main/Disk-analysis-%26-Autopsy%20-THM) | Resolución de un CTF de TryHackMe centrado en análisis forense de disco usando Autopsy. |
 | [CTF -- Investigación de Windows con malware](https://github.com/Ch4mbi/CTFs/tree/main/Investigating%20Windows) | CTF sencillo de investigación de un sistema Windows comprometido por malware. |
 | [Análisis forense digital - Caso Narcos](https://github.com/Ch4mbi/Trabajo-analisis-forense-digital--Narcos) | Análisis forense de un caso realista usando FTK Imager y Autopsy, con teoría sobre procedimientos legales, cadena de custodia y autocrítica. |
@@ -53,7 +50,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 47695(Top 2%)
-- 23 Badges
-- 325-day streak
-- 135 Completed rooms, de las cuales, 42 son labs, siendo el resto teóricas o con prácticas que no considero labs como tal.
+- Rank: 46109(Top 2%)
+- 25 Badges
+- 330-day streak
+- 137 Completed rooms, de las cuales, 48 son labs, siendo el resto teóricas o con prácticas que no considero labs como tal.
