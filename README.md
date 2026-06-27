@@ -21,12 +21,12 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 | Proyecto | Descripción |
 |----------|-------------|
 | [Análisis de memoria RAM usando Volatility](https://github.com/Ch4mbi/A-ciegas--Volatility) | Investigación forense de una imagen de memoria RAM usando Volatility en el contexto de un acceso no autorizado |
+| [Análisis forense digital - Caso Narcos](https://github.com/Ch4mbi/Trabajo-analisis-forense-digital--Narcos) | Análisis forense de un caso realista usando FTK Imager y Autopsy, con teoría sobre procedimientos legales, cadena de custodia y autocrítica. |
+| [Implementación de SGSI -- Banco ficticio](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD) | Creación de un banco ficticio como base para implantar un SGSI basado en ISO 27001 (Con la ISO 27002), DORA y RGPD. |
 | [Análisis de la seguridad en el entorno financiero](https://github.com/Ch4mbi/Cybersecurity-in-finance-banking) | Estudio teórico sobre el estado de la ciberseguridad en el sector financiero y bancario. Cuenta también con estudio de casos como Carbanak, Zeus y Tinba |
 | [Riesgos en dispositivos móviles + ataques a MongoDB](https://github.com/Ch4mbi/Mobile-device-data-risks) | Configuración de un entorno en localhost conectado a MongoDB sin medidas de seguridad, ejecución de ataques programados contra ese objetivo y base teórica asociada. |
-| [Implementación de SGSI -- Banco ficticio](https://github.com/Ch4mbi/SGSI-ISO27001-27002-DORA-RGPD) | Creación de un banco ficticio como base para implantar un SGSI basado en ISO 27001 (Con la ISO 27002), DORA y RGPD. |
 | [CTF -- Análisis de disco con Autopsy](https://github.com/Ch4mbi/CTFs/tree/main/Disk-analysis-%26-Autopsy%20-THM) | Resolución de un CTF de TryHackMe centrado en análisis forense de disco usando Autopsy. |
 | [CTF -- Investigación de Windows con malware](https://github.com/Ch4mbi/CTFs/tree/main/Investigating%20Windows) | CTF sencillo de investigación de un sistema Windows comprometido por malware. |
-| [Análisis forense digital - Caso Narcos](https://github.com/Ch4mbi/Trabajo-analisis-forense-digital--Narcos) | Análisis forense de un caso realista usando FTK Imager y Autopsy, con teoría sobre procedimientos legales, cadena de custodia y autocrítica. |
 | [Carpeta de writeups de CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file) | A pesar de mencionar ya los CTFs, cabe destacar la carpeta donde hay más de ellos, la cual iré aumentando con el paso del tiempo |
 
 # Skills/Herramientas
