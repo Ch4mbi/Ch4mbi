@@ -11,8 +11,16 @@ De dichas plataformas ,o personalmente, tomo apuntes que se pueden visualizar en
 - [Tryhackme](https://github.com/Ch4mbi/Apuntes/tree/main/THM)
 - [Personales](https://github.com/Ch4mbi/Apuntes/tree/main/Personales)
 
-
 Cuento con el nivel C1 en inglés.
+
+## Perfil TryHackMe
+
+[TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
+
+- Rank: 39680(Top 2%)
+- 28 Badges
+- 332-day streak
+- 146 Completed rooms, de las cuales, 48 son labs, siendo el resto teóricas o con prácticas que no considero labs como tal.
 
 # Proyectos
 
@@ -46,11 +54,3 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 
 `Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `OSINT`
 
-# Perfil TryHackMe
-
-[TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
-
-- Rank: 39680(Top 2%)
-- 28 Badges
-- 332-day streak
-- 146 Completed rooms, de las cuales, 48 son labs, siendo el resto teóricas o con prácticas que no considero labs como tal.
