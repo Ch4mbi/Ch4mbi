@@ -1,6 +1,7 @@
 # Introducción
 
-Hola, soy un recien graduado en ciberseguridad (Cybersecurity & Hacking) en Madrid. Actualmente tengo un enfoque principal (personal) en el campo de DFIR y en GRC. El cual me apasiona y me motiva a conseguir mis metas.
+Recién graduado en Ciberseguridad (Cybersecurity & Hacking) en Madrid, con especial interés en DFIR (Digital Forensics & Incident Response) y GRC (Governance, Risk & Compliance).
+Me enfoco en la combinación entre análisis técnico de incidentes y cumplimiento normativo en entornos corporativos.
 
 Mi contacto de [Linkedin](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir-grc/).
 
