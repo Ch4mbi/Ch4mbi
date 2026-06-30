@@ -1,6 +1,6 @@
 # Introducción
 
-Recién graduado en Ciberseguridad (Cybersecurity & Hacking) en Madrid, con especial interés en DFIR (Digital Forensics & Incident Response) y GRC (Governance, Risk & Compliance).
+Recién graduado en Ciberseguridad (Cybersecurity & Hacking) en Madrid con una nota media de 7,812 (78,12%) , con especial interés en DFIR (Digital Forensics & Incident Response) y GRC (Governance, Risk & Compliance).
 Me enfoco en la combinación entre análisis técnico de incidentes y cumplimiento normativo en entornos corporativos.
 
 Mi contacto de [Linkedin](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir-grc/).
