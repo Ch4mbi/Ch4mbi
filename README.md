@@ -7,10 +7,7 @@ Mi contacto de [Linkedin](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanu
 
 # Sobre mí
 
-Aparte de los estudios actuales, en mis ratos libres suelo llevar a cabo rooms de tryhackme y hackthebox. Ocasionalmente me gusta llevar a cabo CTFs para desarrollarme más en un ámbito mas realista que solo teórico-guiado.
-De dichas plataformas ,o personalmente, tomo apuntes que se pueden visualizar en el repositorio de "[apuntes](https://github.com/Ch4mbi/Apuntes)":
-- [Tryhackme](https://github.com/Ch4mbi/Apuntes/tree/main/THM)
-- [Personales](https://github.com/Ch4mbi/Apuntes/tree/main/Personales)
+Aparte de los estudios actuales, en mis ratos libres suelo llevar a cabo rooms de tryhackme y hackthebox. Ocasionalmente me gusta llevar a cabo CTFs para desarrollarme más en un ámbito mas "realista" que solo teórico-guiado. También estoy planeando proyectos a futuro que me ayudarán a mantenerme activo.
 
 Cuento con el nivel C1 en inglés.
 
