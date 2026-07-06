@@ -1,13 +1,12 @@
 # Introducción
 
-Recién graduado en Ciberseguridad (Cybersecurity & Hacking) en Madrid con una nota media de 7,812 (78,12%) , con especial interés en DFIR (Digital Forensics & Incident Response) y GRC (Governance, Risk & Compliance).
-Me enfoco en la combinación entre análisis técnico de incidentes y cumplimiento normativo en entornos corporativos.
+Graduado en Cybersecurity & Hacking con especial interés en Governance, Risk & Compliance (GRC) y Digital Forensics & Incident Response (DFIR) . Desarrollo proyectos centrados en análisis forense, gestión de riesgos e implantación de SGSI basados en ISO 27001.
 
 Mi contacto de [Linkedin](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir-grc/).
 
 # Sobre mí
 
-Aparte de los estudios actuales, en mis ratos libres suelo llevar a cabo rooms de tryhackme y hackthebox. Ocasionalmente me gusta llevar a cabo CTFs para desarrollarme más en un ámbito mas "realista" que solo teórico-guiado. También estoy planeando proyectos a futuro que me ayudarán a mantenerme activo.
+Aparte de los estudios actuales, en mis ratos libres suelo llevar a cabo rooms de tryhackme y hackthebox. Mantengo un laboratorio personal donde practico escenarios de DFIR, blue team y GRC mediante TryHackMe y proyectos propios publicados en este perfil.
 
 Cuento con el nivel C1 en inglés.
 
@@ -15,10 +14,10 @@ Cuento con el nivel C1 en inglés.
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 39380(Top 2%)
-- 28 Badges
-- 333-day streak
-- 146 Completed rooms, de las cuales, 49 son labs, siendo el resto teóricas o con prácticas que no considero labs como tal.
+- Rank: 36567(Top 2%)
+- 30 Badges
+- 339-day streak
+- 154 Completed rooms, de las cuales, 49 son labs, siendo el resto teóricas o con prácticas que no considero labs como tal.
 
 # Proyectos
 
@@ -36,15 +35,15 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 | [Carpeta de writeups de CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file) | A pesar de mencionar ya los CTFs, cabe destacar la carpeta donde hay más de ellos, la cual iré aumentando con el paso del tiempo |
 
 # Skills/Herramientas
+- GRC
+
+`ISO 27001` `ISO 27002` `DORA` `RGPD` `SGSI` `Análisis de riesgos` `SoA` `Gestión de Activos` `Cumplimiento Normativo`
 - Forense digital & DFIR
 
 `Volatility` `Autopsy` `FTK Imager` `Wireshark` `Digital Forensics` `Incident Response` `Memory Forensics` `IoC Analysis` `Log Analysis` `MITRE ATT&CK`
 - Blue Team/Defensa
 
 `SIEM (Splunk + SPL)` `Firewall rules` `Análisis de logs` `GRC` `Análisis de riesgos`
-- GRC
-
-`ISO 27001` `ISO 27002` `DORA` `RGPD` `SGSI` `Análisis de riesgos` `SoA` `Gestión de Activos` `Cumplimiento Normativo`
 - Ofensivo
 
 `Nmap` `Metasploit` `BurpSuite` `sqlmap` `Gobuster`
