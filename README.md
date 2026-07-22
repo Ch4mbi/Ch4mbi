@@ -14,10 +14,10 @@ Cuento con el nivel C1 en inglés.
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 27983(Top 2%)
-- 34 Badges
-- 353-day streak
-- 168 Completed rooms, de las cuales, 54 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
+- Rank: 26754(Top 2%)
+- 35 Badges
+- 355-day streak
+- 172 Completed rooms, de las cuales, 54 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
 
 # Proyectos
 
@@ -38,16 +38,19 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 - GRC
 
 `ISO 27001` `ISO 27002` `DORA` `RGPD` `SGSI` `Análisis de riesgos` `SoA` `Gestión de Activos` `Cumplimiento Normativo`
+
 - Forense digital & DFIR
 
 `Volatility` `Autopsy` `FTK Imager` `Wireshark` `Digital Forensics` `Incident Response` `Memory Forensics` `IoC Analysis` `Log Analysis` `MITRE ATT&CK`
+
 - Blue Team/Defensa
 
 `SIEM (Splunk + SPL)` `Firewall rules` `Análisis de logs` `GRC` `Análisis de riesgos`
+
 - Ofensivo
 
 `Nmap` `Metasploit` `BurpSuite` `sqlmap` `Gobuster`
+
 - Otros
 
 `Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `OSINT`
-
