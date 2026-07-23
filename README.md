@@ -32,7 +32,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 | [Riesgos en dispositivos móviles + ataques a MongoDB](https://github.com/Ch4mbi/Mobile-device-data-risks) | Configuración de un entorno en localhost conectado a MongoDB sin medidas de seguridad, ejecución de ataques programados contra ese objetivo y base teórica asociada. |
 | [CTF - Análisis de disco con Autopsy](https://github.com/Ch4mbi/CTFs/tree/main/Disk-analysis-%26-Autopsy%20-THM) | Resolución de un CTF de TryHackMe centrado en análisis forense de disco usando Autopsy. |
 | [CTF - Investigación de Windows con malware](https://github.com/Ch4mbi/CTFs/tree/main/Investigating%20Windows) | CTF sencillo de investigación de un sistema Windows comprometido por malware. |
-| [Carpeta de writeups de CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file) | A pesar de mencionar ya los CTFs, cabe destacar la carpeta donde hay más de ellos, la cual iré aumentando con el paso del tiempo |
+| [Carpeta de writeups de CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file) | CTFs que llevo a cabo con el objetivo de ir mejorando en el día a dia. Los CTFs son: <br>• Cyberheroes<br>• Disk Analysis & Autopsy (THM)<br>• Investigating Windows<br>• Shadow Trace CTF<br>• Summit (THM)<br>• TShark Challenge II<br>• Warzone 1|
 
 # Skills/Herramientas
 - GRC
