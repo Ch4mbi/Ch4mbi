@@ -14,10 +14,10 @@ Cuento con el nivel C1 en inglés.
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 26000(Top 2%)
-- 36 Badges
-- 356-day streak
-- 173 Completed rooms, de las cuales, 54 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
+- Rank: 24533(Top 2%)
+- 37 Badges
+- 358-day streak
+- 175 Completed rooms, de las cuales, 59 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
 
 # Proyectos
 
