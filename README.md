@@ -30,6 +30,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 | [Análisis forense digital - Caso Narcos](https://github.com/Ch4mbi/Trabajo-analisis-forense-digital--Narcos) | Análisis forense de un caso realista usando FTK Imager y Autopsy, con teoría sobre procedimientos legales, cadena de custodia y autocrítica. |
 | [Riesgos en dispositivos móviles + ataques a MongoDB](https://github.com/Ch4mbi/Mobile-device-data-risks) | Configuración de un entorno en localhost conectado a MongoDB sin medidas de seguridad, ejecución de ataques programados contra ese objetivo y base teórica asociada. |
 | [Análisis de la seguridad en el entorno financiero](https://github.com/Ch4mbi/Cybersecurity-in-finance-banking) | Estudio teórico sobre el estado de la ciberseguridad en el sector financiero y bancario. Cuenta también con estudio de casos como Carbanak, Zeus y Tinba |
+| [Red segura (Cisco) entre empresa de Madrid a sucursal en Barcelona](https://github.com/Ch4mbi/Red-segura-Madrid-Barcelona-Cisco) | Análisis de riesgos en la red y simulación de red en Cisco Packet Tracer con medidas de seguridad configuradas y probadas |
 | [Carpeta de writeups de CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file) | CTFs que llevo a cabo con el objetivo de ir mejorando en el día a dia. Los CTFs son: <br>• Cyberheroes<br>• Disk Analysis & Autopsy <br>• Investigating Windows<br>• Shadow Trace CTF<br>• Summit <br>• TShark Challenge II<br>• Warzone 1<br>• Invite only<br>• ItsyBitsy<br>• Benign |
 
 # Skills/Herramientas
