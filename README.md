@@ -14,10 +14,10 @@ Cuento con el nivel C1 en inglés.
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 24552(Top 1%)
-- 37 Badges
-- 361-day streak
-- 177 Completed rooms, de las cuales, 62 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
+- Rank: 22223(Top 1%)
+- 38 Badges
+- 370-day streak
+- 184 Completed rooms, de las cuales, 62 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
 
 # Proyectos
 
@@ -40,7 +40,7 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 
 - Forense digital & DFIR
 
-`Volatility` `Autopsy` `FTK Imager` `Wireshark` `Digital Forensics` `Incident Response` `Memory Forensics` `IoC Analysis` `Log Analysis` `MITRE ATT&CK`
+`Volatility` `Autopsy` `FTK Imager` `Wireshark` `tshark` `Digital Forensics` `Incident Response` `Memory Forensics` `IoC Analysis` `Log Analysis` `MITRE ATT&CK`
 
 - Blue Team/Defensa
 
