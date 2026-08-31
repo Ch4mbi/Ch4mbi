@@ -14,10 +14,14 @@ Cuento con el nivel C1 en inglés.
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 20489(Top 1%)
-- 38 Badges
-- 385-day streak
-- 194 Completed rooms, de las cuales, 69 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
+- Rank: 18944(Top 1%)
+- 40 Badges
+- 395-day streak
+- 198 Completed rooms, de las cuales, 72 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
+
+### Certificados
+
+- SOC Level 1 Path Completion Certificate
 
 # Proyectos
 
@@ -31,20 +35,20 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 | [Análisis de la seguridad en el entorno financiero](https://github.com/Ch4mbi/Cybersecurity-in-finance-banking) | Estudio teórico sobre el estado de la ciberseguridad en el sector financiero y bancario. Cuenta también con estudio de casos como Carbanak, Zeus y Tinba |
 | [Red segura (Cisco) entre empresa de Madrid a sucursal en Barcelona](https://github.com/Ch4mbi/Red-segura-Madrid-Barcelona-Cisco) | Análisis de riesgos en la red y simulación de red en Cisco Packet Tracer con medidas de seguridad configuradas y probadas. |
 | [Riesgos en dispositivos móviles + ataques a MongoDB](https://github.com/Ch4mbi/Mobile-device-data-risks) | Configuración de un entorno en localhost conectado a MongoDB sin medidas de seguridad, ejecución de ataques programados contra ese objetivo y base teórica asociada. |
-| [Carpeta de writeups de CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file) | CTFs que llevo a cabo con el objetivo de ir mejorando en el día a dia. Los CTFs son: <br>• Cyberheroes<br>• Disk Analysis & Autopsy <br>• Investigating Windows<br>• Shadow Trace CTF<br>• Summit <br>• TShark Challenge II<br>• Warzone 1<br>• Invite only<br>• ItsyBitsy<br>• Benign<br>• Tempest |
+| [Carpeta de writeups de CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file) | CTFs que llevo a cabo con el objetivo de ir mejorando en el día a dia. Los CTFs son: <br>• Cyberheroes<br>• Disk Analysis & Autopsy <br>• Investigating Windows<br>• Shadow Trace CTF<br>• Summit <br>• TShark Challenge II<br>• Warzone 1<br>• Invite only<br>• ItsyBitsy<br>• Benign<br>• Tempest<br>• Grupo de CTFs de Boogeyman (1,2,3) |
 
 # Skills/Herramientas
 - GRC
 
 `ISO 27001` `ISO 27002` `DORA` `RGPD` `SGSI` `Análisis de riesgos` `SoA` `Gestión de Activos` `Cumplimiento Normativo` `Visión crítica`
 
+- Blue Team/Defensa
+
+`SIEM (Splunk + SPL) (Elastic)` `Firewall rules` `Análisis de logs` `GRC` `Análisis de riesgos`
+
 - Forense digital & DFIR
 
 `Volatility` `Autopsy` `FTK Imager` `Wireshark` `tshark` `Digital Forensics` `Incident Response` `Memory Forensics` `IoC Analysis` `Log Analysis` `MITRE ATT&CK`
-
-- Blue Team/Defensa
-
-`SIEM (Splunk + SPL)` `Firewall rules` `Análisis de logs` `GRC` `Análisis de riesgos`
 
 - Ofensivo
 
