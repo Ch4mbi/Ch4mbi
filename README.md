@@ -1,6 +1,6 @@
 # Introducción
 
-Graduado en Cybersecurity & Hacking con especial interés en Governance, Risk & Compliance (GRC) y Digital Forensics & Incident Response (DFIR) . Desarrollo proyectos centrados en análisis forense, gestión de riesgos e implantación de SGSI basados en ISO 27001.
+Estudiante de ciberseguridad y hacking con especial interés en Governance, Risk & Compliance (GRC) y Digital Forensics & Incident Response (DFIR) . Desarrollo proyectos centrados en análisis forense, gestión de riesgos e implantación de SGSI basados en ISO 27001.
 
 Mi contacto de [Linkedin: Mario Sánchez](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir-grc/).
 
