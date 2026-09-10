@@ -1,6 +1,9 @@
 # Introducción
 
-Estudiante de ciberseguridad y hacking con especial interés en Governance, Risk & Compliance (GRC) y Digital Forensics & Incident Response (DFIR) . Desarrollo proyectos centrados en análisis forense, gestión de riesgos e implantación de SGSI basados en ISO 27001.
+Estudiante de Ciberseguridad y Hacking con especial interés en Digital Forensics & Incident Response (DFIR) y Governance, Risk & Compliance (GRC).
+Desarrollo proyectos prácticos relacionados con análisis forense digital, análisis de memoria, Blue Team, gestión de riesgos e implantación de Sistemas de Gestión de Seguridad de la Información (SGSI), documentando el proceso y los resultados en GitHub.
+
+Actualmente busco mi primera oportunidad profesional en ciberseguridad, especialmente en posiciones junior o de prácticas relacionadas con DFIR, SOC/Blue Team y GRC.
 
 Mi contacto de [Linkedin: Mario Sánchez](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir-grc/).
 
@@ -14,10 +17,10 @@ Cuento con el nivel C1 en inglés.
 
 [TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
 
-- Rank: 18001(Top 1%)
+- Rank: 17502(Top 1%)
 - 41 Badges
-- 400-day streak
-- 208 Completed rooms, de las cuales, 76 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
+- 405-day streak
+- 210 Completed rooms, de las cuales, 76 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
 
 ### Certificados
 
