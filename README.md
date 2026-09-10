@@ -1,6 +1,7 @@
 # Introducción
 
 Estudiante de Ciberseguridad y Hacking con especial interés en Digital Forensics & Incident Response (DFIR) y Governance, Risk & Compliance (GRC).
+
 Desarrollo proyectos prácticos relacionados con análisis forense digital, análisis de memoria, Blue Team, gestión de riesgos e implantación de Sistemas de Gestión de Seguridad de la Información (SGSI), documentando el proceso y los resultados en GitHub.
 
 Actualmente busco mi primera oportunidad profesional en ciberseguridad, especialmente en posiciones junior o de prácticas relacionadas con DFIR, SOC/Blue Team y GRC.
