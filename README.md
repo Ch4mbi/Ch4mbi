@@ -21,7 +21,7 @@ Cuento con el nivel C1 en inglés.
 - Rank: 17502(Top 1%)
 - 41 Badges
 - 405-day streak
-- 210 Completed rooms, de las cuales, 76 son labs, siendo el resto teóricas o con prácticas que no considero laboratorios.
+- 210 rooms completadas · 76 labs
 
 ### Certificados
 
