@@ -16,7 +16,7 @@ Cuento con el nivel C1 en inglés.
 
 ## Perfil TryHackMe
 
-[TryHackMe: Sambim](https://tryhackme.com/p/Sambim)
+[TryHackMe: Ch4mbi](https://tryhackme.com/p/Ch4mbi)
 
 - Rank: 16225(Top 1%)
 - 42 Badges
