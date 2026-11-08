@@ -18,10 +18,10 @@ Cuento con el nivel C1 en inglés.
 
 [TryHackMe: Ch4mbi](https://tryhackme.com/p/Ch4mbi)
 
-- Rank: 16225(Top 1%)
+- Rank: 15766(Top 1%)
 - 42 Badges
-- 431-day streak
-- 225 rooms completadas · 83 labs
+- 464-day streak
+- 236 rooms completadas · 94 labs
 - Capability Score: 63
 
 ### Certificados
