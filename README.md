@@ -21,7 +21,7 @@ Cuento con el nivel C1 en inglés.
 - Rank: 15766(Top 1%)
 - 42 Badges
 - 464-day streak
-- 236 rooms completadas · 94 labs
+- 236 rooms completadas · 158 labs
 - Capability Score: 63
 
 ### Certificados
