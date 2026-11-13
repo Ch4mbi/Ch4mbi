@@ -43,22 +43,13 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 | [Writeups de CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file) | CTFs que llevo a cabo con el objetivo de ir mejorando en el día a dia. Los CTFs son: <br>• Cyberheroes<br>• Disk Analysis & Autopsy <br>• Investigating Windows<br>• Shadow Trace CTF<br>• Summit <br>• TShark Challenge II<br>• Warzone 1<br>• Invite only<br>• ItsyBitsy<br>• Benign<br>• Tempest<br>• Grupo de CTFs de Boogeyman (1,2,3) |
 
 # Skills/Herramientas
-- GRC
 
-`ISO 27001` `ISO 27002` `DORA` `RGPD` `SGSI` `Análisis de riesgos` `SoA` `Gestión de Activos` `Cumplimiento Normativo` `Visión crítica`
-
-- Blue Team/Defensa
-
-`SIEM (Splunk + SPL) (Elastic)` `Firewall rules` `Análisis de logs` `GRC` `Análisis de riesgos`
-
-- Forense digital & DFIR
-
-`Volatility` `Autopsy` `FTK Imager` `Wireshark` `tshark` `Digital Forensics` `Incident Response` `Memory Forensics` `IoC Analysis` `Log Analysis` `MITRE ATT&CK`
-
-- Ofensivo
-
-`Nmap` `Metasploit` `BurpSuite` `sqlmap` `Gobuster`
-
-- Otros
-
-`Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `OSINT` `Virustotal`
+| Categoría | Competencia |
+|----------|-------------|
+| GRC | `ISO 27001` `ISO 27002` `DORA` `RGPD` `SGSI/ISMS` `Análisis de riesgos` `SoA` `Gestión de Activos` `Cumplimiento Normativo` `Visión crítica` |
+| DFIR | `Volatility` `Autopsy` `FTK Imager` `Evidence Preservation` `Memory` |
+| Blue Team | `Splunl` `Elastic` `SIEM` `Log analysis` `Mitre ATT&CK` |
+| Networking | `Wireshark` `Tshark` `Firewalls` `TCP/IP` |
+| Systems | `WIndows` `Linux` `VirtualBox` |
+| Ofensivo | `Nmap` `Metasploit` `BurpSuite` `sqlmap` `Gobuster` |
+| Otros | `Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `OSINT` `Virustotal` |
