@@ -1,6 +1,6 @@
 # Introducción
 
-Estudiante de Ciberseguridad y Hacking con especial interés en Digital Forensics & Incident Response (DFIR) y Governance, Risk & Compliance (GRC).
+Estudiante de Ciberseguridad y Hacking con especial interés en Governance, Risk & Compliance (GRC) y Digital Forensics & Incident Response (DFIR).
 
 Desarrollo proyectos prácticos relacionados con análisis forense digital, análisis de memoria, Blue Team, gestión de riesgos e implantación de Sistemas de Gestión de Seguridad de la Información (SGSI), documentando el proceso y los resultados en GitHub.
 
@@ -23,6 +23,12 @@ Cuento con el nivel C1 en inglés.
 - 464-day streak
 - 236 rooms completadas · 158 labs
 - Capability Score: 63
+
+| Rank | 15766 (Top 1%) |
+| Badges/Insignias | 42 |
+| Streak/Racha | 464 días |
+| Rooms completadas | 236 (158 labs) |
+| Capability score | 63 |
 
 ### Certificados
 
