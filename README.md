@@ -1,10 +1,12 @@
 # Introducción
 
-Estudiante de Ciberseguridad y Hacking con especial interés en Governance, Risk & Compliance (GRC) y Digital Forensics & Incident Response (DFIR).
+Estudiante de último curso de Ciberseguridad, con formación en Ciberseguridad y Hacking y especial interés en Governance, Risk & Compliance (GRC), Cyber Resilience y consultoría de ciberseguridad.
 
-Desarrollo proyectos prácticos relacionados con análisis forense digital, análisis de memoria, Blue Team, gestión de riesgos e implantación de Sistemas de Gestión de Seguridad de la Información (SGSI), documentando el proceso y los resultados en GitHub.
+Cuento con experiencia de prácticas en el ámbito de la ciberseguridad, participando en actividades relacionadas con continuidad operativa, planes de recuperación ante desastres (DRP), documentación e informes.
 
-Actualmente busco mi primera oportunidad profesional en ciberseguridad, especialmente en posiciones junior o de prácticas relacionadas con DFIR, SOC/Blue Team y GRC.
+Complemento mi formación con proyectos prácticos relacionados con la implantación de SGSI, análisis de riesgos, cumplimiento normativo y análisis forense digital (DFIR), manteniendo una perspectiva técnica sobre la gestión de la seguridad.
+
+Mi objetivo profesional es desarrollarme en consultoría de ciberseguridad, especialmente en áreas de GRC, gestión de riesgos, cumplimiento normativo y resiliencia operativa.
 
 Mi contacto de [Linkedin: Mario Sánchez](https://www.linkedin.com/in/mario-s%C3%A1nchez-villanueva-dfir-grc/).
 
@@ -32,13 +34,15 @@ Cuento con el nivel C1 en inglés.
 | Rooms completadas | 236 (158 labs) |
 | Capability score | 63 | 
 
-### Certificados
+### Formación práctica y certificados de plataformas
 
 - SOC Level 1 Path Completion Certificate
 
 # Proyectos
 
-También en la universidad , o personalmente, hago proyectos que subo en diferentes repositorios. En dichos repositorios he subido, o voy a subir(Ya que debo pasarlos al formato correcto) proyectos propios o de la universidad que haya realizado yo que me parezcan relevantes:
+En esta sección recopilo proyectos académicos y personales relacionados con Governance, Risk & Compliance (GRC), Cyber Resilience, Blue Team y Digital Forensics & Incident Response (DFIR).
+
+Cada repositorio documenta el objetivo, el alcance, la metodología, las herramientas utilizadas y los resultados obtenidos, incluyendo las conclusiones y limitaciones del trabajo cuando corresponde.
 
 | Proyecto | Descripción |
 |----------|-------------|
@@ -54,10 +58,10 @@ También en la universidad , o personalmente, hago proyectos que subo en diferen
 
 | Categoría | Competencia |
 |----------|-------------|
-| GRC | `ISO 27001` `ISO 27002` `DORA` `RGPD` `SGSI/ISMS` `Análisis de riesgos` `SoA` `Gestión de Activos` `Cumplimiento Normativo` `Visión crítica` |
+| GRC | `ISO 27001` `ISO 27002` `DORA` `RGPD` `SGSI/ISMS` `Análisis de riesgos` `SoA` `Gestión de Activos` `Cumplimiento Normativo` `Análisis crítico` |
 | DFIR | `Volatility` `Autopsy` `FTK Imager` `Evidence Preservation` `Memory` |
-| Blue Team | `Splunl` `Elastic` `SIEM` `Log analysis` `Mitre ATT&CK` |
+| Blue Team | `Splunk` `Elastic` `SIEM` `Log analysis` `Mitre ATT&CK` |
 | Networking | `Wireshark` `Tshark` `Firewalls` `TCP/IP` |
-| Systems | `WIndows` `Linux` `VirtualBox` |
+| Systems | `Windows` `Linux` `VirtualBox` |
 | Ofensivo | `Nmap` `Metasploit` `BurpSuite` `sqlmap` `Gobuster` |
 | Otros | `Windows cmd` `Linux` `VirtualBox` `MongoDB` `MySQL` `Markdown` `C++` `OSINT` `Virustotal` |
