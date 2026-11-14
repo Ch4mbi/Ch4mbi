@@ -14,6 +14,12 @@ Aparte de los estudios actuales, en mis ratos libres suelo llevar a cabo rooms d
 
 Cuento con el nivel C1 en inglés.
 
+## Experiencia profesional
+
+| Empresa | Fechas | Actividades |
+|----------|-------------|----------|
+| KPMG | Octubre 2026 - Actualidad | Apoyo en actividades relacionadas con planes de recuperación ante desastres (DRP) y continuidad operativa (PCO). <br> • Colaboración en la elaboración y actualización de documentación de continuidad y resiliencia. <br> • Preparación y actualización de materiales de formación y concienciación. <br> • Elaboración y revisión de informes y documentación de apoyo. <br> • Participación en simulaciones y ejercicios relacionados con continuidad operativa. |
+
 ## Perfil TryHackMe
 
 [TryHackMe: Ch4mbi](https://tryhackme.com/p/Ch4mbi)
@@ -24,7 +30,7 @@ Cuento con el nivel C1 en inglés.
 | Badges/Insignias | 42 |
 | Streak/Racha | 464 días |
 | Rooms completadas | 236 (158 labs) |
-| Capability score | 63 |
+| Capability score | 63 | 
 
 ### Certificados
 
