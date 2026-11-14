@@ -18,7 +18,7 @@ Cuento con el nivel C1 en inglés.
 
 | Empresa | Puesto | Fechas | Actividades |
 |----------|-------------|----------|----------|
-| KPMG | Cybersecurity Intern | Octubre 2026 - Actualidad | Apoyo en actividades relacionadas con planes de recuperación ante desastres (DRP) y continuidad operativa (PCO). <br> • Colaboración en la elaboración y actualización de documentación de continuidad y resiliencia. <br> • Preparación y actualización de materiales de formación y concienciación. <br> • Elaboración y revisión de informes y documentación de apoyo. <br> • Participación en simulaciones y ejercicios relacionados con continuidad operativa. |
+| KPMG | Cybersecurity Intern | Octubre 2026 - Actualidad | Apoyo en actividades relacionadas con planes de recuperación ante desastres (DRP) y continuidad operativa (PCO). <br> • Colaboración en la elaboración y actualización de documentación de continuidad y resiliencia. <br> • Preparación y actualización de materiales de formación y concienciación. <br> • Elaboración y revisión de informes y documentación de apoyo. <br> • Participación en simulaciones y ejercicios relacionados con continuidad operativa. <br> • Participación en simulacros de continuidad de negocio. |
 
 ## Perfil TryHackMe
 
